@@ -1,0 +1,16 @@
+Edit of Gambler: https://steamcommunity.com/sharedfiles/filedetails/?id=2809974123
+
+Reworked to instead of giving you a random amount of equipment items upon spawn,
+you now get an exclusive weapon that lets you throw a suitcase forwards
+that gives you a random non-passive equipment item from the traitor shop.
+Regenerates ammo every 30 seconds, can hold up to 5.
+
+Comes with a convar to control how much armor it starts with.
+
+Bugs:
+Does not display ammo gain for suitcase upon regenerating a new one, meaning that you'll have to manually check for ammo gain.
+
+
+Requires the following:
+
+https://steamcommunity.com/sharedfiles/filedetails/?id=896084374
