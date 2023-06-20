@@ -1,3 +1,5 @@
 Version of Jester that was used before the rewrite.
 
+Note that this will not work with the latest version of TTT2 as Anarchy uses an older version of TTT2.
+
 Original addon: https://steamcommunity.com/sharedfiles/filedetails/?id=1363049665
