@@ -1,0 +1,4 @@
+Custom role made specifically for GFL.
+Functions as an innocent that gains a specific amount of health upon killing someone that isn't of the same team.
+
+Not to be confused with the neutral evil version of Skirmisher: https://steamcommunity.com/sharedfiles/filedetails/?id=2582880884
