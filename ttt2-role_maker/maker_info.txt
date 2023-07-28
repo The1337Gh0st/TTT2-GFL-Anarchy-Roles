@@ -1,0 +1,7 @@
+Custom role made for GFL Anarchy.
+
+Detective role that spawns with a Minecraft Block SWEP instead of a DNA scanner.
+
+Removed due to it being buggy and introducing several problematic gameplay exploits, along with not being very useful to the Innocent team and being painful for evil roles since it would spend most of the round camping with its blocks.
+
+Uses https://steamcommunity.com/sharedfiles/filedetails/?id=2311866661
