@@ -1,0 +1,4 @@
+Modified version of https://steamcommunity.com/sharedfiles/filedetails/?id=1361602585
+
+Moved to its own team as it was much too strong as a Traitor.
+Fixed a bug where it didn't have a default keybind for the bat transformation (now set to B).

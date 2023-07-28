@@ -1,0 +1,12 @@
+Lookout and Stalker, a modified version of https://steamcommunity.com/sharedfiles/filedetails/?id=1921866317
+
+Uses a Detective Playercam and Camera to track players.
+
+Originally was a Detective role, but was moved to innocents since it was deemed to not be strong as having a DNA scanner.
+To compensate, Stalker was created to make sure that the Lookout was not instantly proven.
+
+Stalker icon is from https://steamcommunity.com/sharedfiles/filedetails/?id=2755155854
+
+Uses the following weapons:
+Detective Playercam: https://steamcommunity.com/sharedfiles/filedetails/?id=942402787
+Camera: https://steamcommunity.com/sharedfiles/filedetails/?id=2031255788

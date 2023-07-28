@@ -1,0 +1,31 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\darksouls\Solaire\Feather"
+	"$bumpmap" "models\darksouls\Solaire\Iron Helm n"
+
+"$nocull" "1"
+
+	"$phongfresnelranges"			"[5 7 8]"
+
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models\darksouls\shared\green"
+
+	"$phong" "1"
+	"$phongexponent"				"9"
+	"$phongboost"					"2.4"
+
+	"$lightwarptexture" "Models\darksouls/souls_warp"
+
+"$rimlight" "1" 
+"$rimlightexponent" "4" 
+"$rimlightboost" ".8" 
+"$rimmask" 1
+
+
+$diffuseexp "0.3"
+
+	"$envmap" env_cubemap
+	"$envmaptint" "[.3 .3 .3]"
+	"$normalmapalphaenvmapmask"		"1"
+
+}

@@ -1,0 +1,29 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\darksouls\Solaire\Iron Leggings"
+	"$bumpmap" "models\darksouls\Solaire\Iron Leggings n"
+
+	"$phongfresnelranges"			"[5 7 8]"
+
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models\darksouls\shared\green"
+
+	"$phong" "1"
+	"$phongexponent"				"6"
+	"$phongboost"					"1.8"
+
+	"$lightwarptexture" "Models\darksouls/souls_warp"
+
+"$rimlight" "1" 
+"$rimlightexponent" "4" 
+"$rimlightboost" "0.8" 
+"$rimmask" 1
+
+
+$diffuseexp "0.3"
+
+	"$envmap" env_cubemap
+	"$envmaptint" "[.3 .3 .3]"
+	"$normalmapalphaenvmapmask"		"1"
+
+}

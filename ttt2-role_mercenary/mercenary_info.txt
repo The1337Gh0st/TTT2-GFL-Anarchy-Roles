@@ -1,0 +1,5 @@
+Modified version of https://steamcommunity.com/sharedfiles/filedetails/?id=2755167725
+
+Moved to traitor team, intended to use the Detective shop instead.
+Comes with a convar to control how much armor it spawns with.
+Note: Detective shop access has to be set manually.

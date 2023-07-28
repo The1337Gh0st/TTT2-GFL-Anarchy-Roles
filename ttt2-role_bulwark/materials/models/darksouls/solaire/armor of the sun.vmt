@@ -1,0 +1,26 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\darksouls\Solaire\feather2"
+"$alphatest" 1
+
+$alphatestreference .01
+	"$bumpmap" "models\darksouls\Solaire\Armor of the Sun n"
+
+"$nocull" "1"
+
+	"$phongfresnelranges"			"[0.3 0.5 0.7]"
+
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models\darksouls\shared\green"
+
+	"$phong" "1"
+	"$phongexponent"				"2"
+	"$phongboost"					"20"
+
+	"$lightwarptexture" "Models\darksouls/souls_warp"
+
+"$rimlight" "1" 
+"$rimlightexponent" "7" 
+"$rimlightboost" "0.2" 
+"$rimmask" 1
+}

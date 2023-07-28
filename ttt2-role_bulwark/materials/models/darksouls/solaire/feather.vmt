@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$baseTexture"  "models\darksouls\Solaire\feather"
+	
+	"$alphatest"	1
+
+"$bumpmap" "models\darksouls\Solaire\Iron Helm n"
+
+	"$phongalbedotint" 1
+	"$phongexponenttexture" "models\darksouls\shared\green"
+
+"$nocull" "1"
+"$halflambert" "1"
+
+	"$phongfresnelranges"			"[0.3 0.5 0.7]"
+
+	"$phong" "1"
+	"$phongexponent"				"5"
+	"$phongboost"					"15"
+
+	"$lightwarptexture" "Models\darksouls/souls_warp"
+}

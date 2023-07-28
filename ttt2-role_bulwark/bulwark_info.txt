@@ -1,0 +1,8 @@
+A custom role for GFL Anarchy.
+
+Created as a joke role that players like a juggernaut. Comes with a minigun, medkit with regenerating ammo, and a passive equipment that gives it immunity to all non-bullet / melee types of damage that TTT2 supports.
+
+Role icon by: https://steamcommunity.com/profiles/76561198891500294
+Passive equipment icon is from https://steamcommunity.com/sharedfiles/filedetails/?id=2683396399
+Minigun is from https://steamcommunity.com/sharedfiles/filedetails/?id=128091208
+Playermodel from https://steamcommunity.com/sharedfiles/filedetails/?id=306283778

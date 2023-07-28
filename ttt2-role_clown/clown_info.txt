@@ -1,0 +1,6 @@
+Modified version of https://steamcommunity.com/sharedfiles/filedetails/?id=2605758514
+
+Can now deal damage normally, yet is still disguised as a Jester to other players.
+Killer Clown buffed to have the same effect as Lycanthrope: https://steamcommunity.com/sharedfiles/filedetails/?id=2238015891
+
+Removed due to a bug involving it being shown as a Jester to Innocents (thus letting them know that they are a Clown by deduction), and the Killer Clown effect not triggering properly.
