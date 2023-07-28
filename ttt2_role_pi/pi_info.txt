@@ -1,6 +1,6 @@
 Private Investigator, a custom role made for GFL Anarchy.
 
-Half-finished role that was intended to server as a Detective that was hidden to other players.
+Half-finished role that was intended to serve as a Detective that was hidden to other players.
 Implemented during a period in which IsOmniscient and IsPublicRole flags were on the server.
 Was going to have convars that would make it either be a Detective or Innocent on role spawn, but it was never implemented so it instead has 2 different roles that you have to manually disable to get the desired version.
 Removed due to it not being fun to play with and being buggy with it not giving the DNA scanner properly.
