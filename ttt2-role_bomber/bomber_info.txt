@@ -1,0 +1,9 @@
+Modified version of https://steamcommunity.com/sharedfiles/filedetails/?id=2733467587
+
+Comes with a few other changes to make it suck less, such as buffing crowbar damage to 50 and having Bomb Transmutation.
+
+Requires Climb: https://steamcommunity.com/sharedfiles/filedetails/?id=1840323666
+
+Some code was borrowed from: https://steamcommunity.com/sharedfiles/filedetails/?id=2655669444
+
+Icon is from https://steamcommunity.com/sharedfiles/filedetails/?id=2669390710

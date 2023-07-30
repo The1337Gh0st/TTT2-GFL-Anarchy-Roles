@@ -1,0 +1,9 @@
+Modified version of https://steamcommunity.com/sharedfiles/filedetails/?id=2365806830
+
+Contains a few fixes such as properly setting the Random Gun's ammo entity, along with changing a few functions of the Random Gun to make it more unique.
+
+Requires Minigame base + minigame packs for content: https://steamcommunity.com/workshop/filedetails/?id=2266863830
+
+Poison dart code is taken from https://steamcommunity.com/sharedfiles/filedetails/?id=922300051
+
+Freeze code is taken from https://steamcommunity.com/sharedfiles/filedetails/?id=888948962

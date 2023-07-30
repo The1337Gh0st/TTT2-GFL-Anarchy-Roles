@@ -1,0 +1,5 @@
+Version of the gamemode that GFL Anarchy runs so you can test these roles as intended.
+
+Note that this is a heavily outdated version of the gamemode, so it won't work with everything that uses code specific to the latest version of TTT2 (e.g. respawning roles).
+
+Contains a few bugfixes to make it work with the latest version of GMOD.
