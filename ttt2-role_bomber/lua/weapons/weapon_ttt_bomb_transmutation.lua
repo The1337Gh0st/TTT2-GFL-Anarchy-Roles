@@ -94,7 +94,7 @@ btd = {}
 
 function SWEP:Initialize()
 	self:SetWeaponHoldType("magic")
-	self.__killerqueen = 57005
+	--	self.__killerqueen = 57005
 	bomb[self.Owner] = nil
 end
 
