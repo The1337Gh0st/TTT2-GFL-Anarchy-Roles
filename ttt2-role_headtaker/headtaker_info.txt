@@ -1,0 +1,5 @@
+A role meant for a halloween event that was cobbled together in a few days, using code and assets from various sources.
+
+Weapon's code was taken from https://steamcommunity.com/sharedfiles/filedetails/?id=1687740592 , https://steamcommunity.com/sharedfiles/filedetails/?id=931856840 , and https://steamcommunity.com/sharedfiles/filedetails/?id=1726314474
+
+Weapon model taken from: https://steamcommunity.com/sharedfiles/filedetails/?id=1726314474
